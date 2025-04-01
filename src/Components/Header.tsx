@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import logo from './../assets/Images/hulu.png'
 import { IoChevronDownOutline, IoChevronUpOutline, IoSearch } from "react-icons/io5";
 

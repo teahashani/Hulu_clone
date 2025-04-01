@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { IoChevronBackOutline, IoChevronForwardOutline } from 'react-icons/io5';
 import GlobalApi from '../Services/GlobalApi'
 import MovieCard from './MovieCard';

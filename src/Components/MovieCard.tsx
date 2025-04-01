@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 
 function MovieCard({ movie }: { movie: any }) {
     const IMAGE_BASE_URL = "https://image.tmdb.org/t/p/original";
